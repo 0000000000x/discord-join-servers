@@ -1,0 +1,10 @@
+{
+  "name": "join-servers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "00000000",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.1.0"
+  }
+}
